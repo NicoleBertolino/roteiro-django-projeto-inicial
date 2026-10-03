@@ -1,9 +1,22 @@
-# roteiro-django-projeto-inicial
-Trabalho de Programação Web, trabalhando com django + tailwind
+# Roteiro Django – Projeto Inicial
 
-Nome: Nicole Bertolino Lamounier Santos 
-Matrícula: 22.2.4066
-Curso: Ciência da Computação 
-Disciplina: Programação Web 
+Trabalho de Programação Web utilizando **Django + Tailwind CSS + Docker**.
 
-![Texto alternativo](image/django_tutorial_pt1.png.png)
+## Identificação
+
+- **Nome:** Nicole Bertolino Lamounier Santos
+- **Matrícula:** 22.2.4066
+- **Curso:** Ciência da Computação
+- **Disciplina:** Programação Web
+
+## Resultado
+
+<img src="imagens/django_tutorial_pt1.png" alt="Página inicial do projeto Django + Tailwind" width="600">
+
+## Como executar
+
+```bash
+docker compose up --build
+```
+
+Depois, acesse http://localhost:8000.
