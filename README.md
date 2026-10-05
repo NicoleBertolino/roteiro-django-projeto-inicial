@@ -10,7 +10,10 @@ Trabalho de Programação Web utilizando **Django + Tailwind CSS + Docker**.
 - **Disciplina:** Programação Web
 
 ## Resultado
+# Imagem referentes a primeira prática
+<img src="image/django_tutorial_pt1.png" alt="Página inicial do projeto Django + Tailwind" width="600">
 
+# Imagens referentes a segunda prática
 <img src="image/django_tutorial_pt2.png" alt="Página inicial do projeto Django + Tailwind" width="600">
 <img src="image/django_tutorial_pt2_sobre.png" alt="Página sobre do projeto Django + Tailwind" width="600">
 
