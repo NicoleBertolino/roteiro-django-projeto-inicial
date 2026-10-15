@@ -24,3 +24,5 @@ docker compose up --build
 ```
 
 Depois, acesse http://localhost:8000.
+
+**Práticas 1 e 2 reunidas na mesma branch
